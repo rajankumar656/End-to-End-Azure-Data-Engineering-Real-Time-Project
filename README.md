@@ -1,0 +1,1 @@
+Designed and implemented a scalable data pipeline leveraging Azure Data Lake Gen2, Azure Synapse Analytics, and Azure Databricks. This project involved ingesting raw data, transforming it through a medallion architecture (Bronze, Silver, Gold layers), and generating actionable insights for reporting using Power BI.
